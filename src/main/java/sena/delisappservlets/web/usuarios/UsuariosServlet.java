@@ -15,7 +15,7 @@ import java.io.IOException;
 import java.util.List;
 /**
  *
- * @author jseba
+ * @author pauchacon16
  */
 @WebServlet("/usuarios")
 public class UsuariosServlet extends HttpServlet{
